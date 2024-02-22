@@ -1,0 +1,7 @@
+.vs
+*/bin
+*/obj
+bin/*
+obj/
+jpo/jpo/bin/
+jpo/jpo/obj/
